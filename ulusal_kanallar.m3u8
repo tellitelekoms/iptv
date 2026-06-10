@@ -38,6 +38,12 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:0,TRT HABER
 #EXTVLCOPT:network-caching=1000
 http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT BELGESEL HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.146.171:9981/stream/channelid/266926930?profile=htsp
+#EXTINF:0,TRT BELGESEL
+#EXTVLCOPT:network-caching=1000
+http://85.209.248.3:9897/trtbelgesel
 #EXTINF:0,ATV AVRUPA***
 #EXTVLCOPT:network-caching=1000
 http://176.65.146.42:6004/play/a01t/index.m3u8
