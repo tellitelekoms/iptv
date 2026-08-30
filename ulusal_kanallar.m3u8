@@ -32,6 +32,9 @@ http://ciner.daioncdn.net/showtv/showtv_480p.m3u8?app=showtv_web
 #EXTINF:0,KANAL D HD
 #EXTVLCOPT:network-caching=1000
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:0, KANAL D
+#EXTVLCOPT:network-caching=1000
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:0,BEYAZ TV
 #EXTVLCOPT:network-caching=1000
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
