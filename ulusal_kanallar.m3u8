@@ -11,15 +11,12 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:0,ATV HD
 #EXTVLCOPT:network-caching=1000
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:0,NOW TV
-#EXTVLCOPT:network-caching=1000
-http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:0,STAR TV SD
 #EXTVLCOPT:network-caching=1000
 http://dygvideo.dygdigital.com/live/hls/startv4puhu/index.m3u8
-#EXTINF:0,STAR TV HD
+#EXTINF:0,NOW TV
 #EXTVLCOPT:network-caching=1000
-http://176.65.146.171:9981/stream/channelid/713880460?profile=htsp
+http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:0,SHOW TV HD
 #EXTVLCOPT:network-caching=1000
 http://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web
