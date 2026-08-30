@@ -29,12 +29,24 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:0,BEYAZ TV
 #EXTVLCOPT:network-caching=1000
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:0,KANAL 7 FHD
+#EXTINF:0,KANAL 7 HD
 #EXTVLCOPT:network-caching=1000
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:0, KANAL 7 SD
+#EXTVLCOPT:network-caching=1000
+http://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
+#EXTINF:0, TV5 TR HD
+#EXTVLCOPT:network-caching=1000
+http://agile-ridge-02432.herokuapp.com/https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 #EXTINF:0,TRT HABER
 #EXTVLCOPT:network-caching=1000
 http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0, NTV HD
+#EXTVLCOPT:network-caching=1000
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu/playlist.m3u8
+#EXTINF:0, HABER TURK HD
+#EXTVLCOPT:network-caching=1000
+http://ensonhaber-live.ercdn.net/haberturk/haberturk_720p.m3u8
 #EXTINF:0,TRT TURK HD
 #EXTVLCOPT:network-caching=1000
 http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
